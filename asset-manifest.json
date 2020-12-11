@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Real-React-Portfolio/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/Real-React-Portfolio/static/js/main.33230e5e.chunk.js",
+    "main.js.map": "/Real-React-Portfolio/static/js/main.33230e5e.chunk.js.map",
+    "runtime-main.js": "/Real-React-Portfolio/static/js/runtime-main.a5d34ae0.js",
+    "runtime-main.js.map": "/Real-React-Portfolio/static/js/runtime-main.a5d34ae0.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/Real-React-Portfolio/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d5c0e4f8.chunk.js": "/Real-React-Portfolio/static/js/2.d5c0e4f8.chunk.js",
+    "static/js/2.d5c0e4f8.chunk.js.map": "/Real-React-Portfolio/static/js/2.d5c0e4f8.chunk.js.map",
+    "static/js/3.55f0410f.chunk.js": "/Real-React-Portfolio/static/js/3.55f0410f.chunk.js",
+    "static/js/3.55f0410f.chunk.js.map": "/Real-React-Portfolio/static/js/3.55f0410f.chunk.js.map",
+    "index.html": "/Real-React-Portfolio/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/Real-React-Portfolio/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.ab7136cd.chunk.css.map": "/Real-React-Portfolio/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.d5c0e4f8.chunk.js.LICENSE.txt": "/Real-React-Portfolio/static/js/2.d5c0e4f8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a5d34ae0.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.d5c0e4f8.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.33230e5e.chunk.js"
+  ]
+}
