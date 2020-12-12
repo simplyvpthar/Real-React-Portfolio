@@ -1,6 +1,12 @@
 import React from "react";
 import "../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import budget from "../img/budget.png";
+import fitness from "../img/fitness.png";
+import notetaker from "../img/notetaker.png";
+import password from "../img/notetaker.png";
+import Weather from "../img/weather.png";
+import Workday from "../img/workday.png";
 
 const portfolio = () => {
   return (
@@ -16,12 +22,10 @@ const portfolio = () => {
 
               <div className="col-md-3">
                 <a href="https://github.com/simplyvpthar/Weather-Dashboard.git">
-                  <img
-                    src="../img/weather.png"
-                    className="card-img-top"
-                    alt="img-one"
-                  />
                 </a>
+                <img src={Weather} className="card-img-top"
+                    alt="img-one"/>
+
                 <p className="card-text">Weather Dashboard</p>
                 <p id="repo">
                   <a href="https://github.com/simplyvpthar/Weather-Dashboard.git">
@@ -34,7 +38,7 @@ const portfolio = () => {
               <div className="col-md-3">
                 <a href="https://github.com/simplyvpthar/Work-Day-Scheduler.git">
                   <img
-                    src="components/img/weather.png"
+                    src={Workday}
                     className="card-img-top"
                     alt="img-two"
                   />
